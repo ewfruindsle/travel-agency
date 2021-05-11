@@ -30,7 +30,7 @@ export default function SingleBlogPost() {
   if (!singleProject) return <div>Loading...</div>
 
   return (
-    <main className="bg-gray-200 min-h-screen p-12">
+    <main className="bg-yellow-50 min-h-screen p-12">
       <article className="container shadow-lg mx-auto bg-white rounded-lg">
         <header className="relative">
           <div className="absolute h-full w-full flex items-center justify-center p-8">
